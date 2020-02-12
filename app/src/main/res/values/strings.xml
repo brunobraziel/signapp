@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SignApp</string>
+    <string name="new_reading">Nova Leitura</string>
+    <string name="import_file">Importar arquivo</string>
+    <string name="about">Sobre</string>
+    <string name="start_reading">Iniciar Leitura</string>
+    <string name="tcc">Trabalho de Conclusão de Curso - 2020</string>
+    <string name="utfpr">Universidade Tecnológica Federal do Paraná</string>
+    <string name="devname">Bruno da Silva Braziel</string>
+    <string name="course">Engenharia de Computação</string>
+    <string name="passos">Primeiramente, certifique-se de três pontos:</string>
+    <string name="passo1">O Bluetooth está ativado neste dispositivo</string>
+    <string name="passo2">Este dispositivo tem conexão com o sensor Myoware</string>
+    <string name="passo3">O sensor Myoware está acoplado ao músculo</string>
+    <string name="clickbuttonbelow">Clique no botão abaixo para iniciar a leitura</string>
+    <string name="frequency">Frequência: </string>
+    <string name="start">Iniciar</string>
+    <string name="stop">Parar</string>
+</resources>
